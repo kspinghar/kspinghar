@@ -10,13 +10,13 @@ Each project below ships with a live Gradio demo on Hugging Face.
 
 - **[FinDocRAG](https://github.com/kspinghar/findocrag)**: cited Q&A over the Equinor, DNB and Hydro annual reports that refuses when the answer is not there, with a human-verified evaluation (93% correctness on 20 unseen questions) · [live demo](https://huggingface.co/spaces/kalspi/findocrag)
 - **[Telco Churn Retention](https://github.com/kspinghar/telco-churn-retention)**: churn drivers, value x risk targeting, and A/B test and uplift analysis for retention campaigns · [live demo](https://huggingface.co/spaces/kalspi/telco-churn-retention)
-- **[Insurance Risk Segmentation](https://github.com/kspinghar/insurance-segmentation)**: K-Means + PCA over 678k French MTPL policies · [live demo](https://huggingface.co/spaces/kalspi/insurance-segmentation)
+- **[Insurance Risk Segmentation](https://github.com/kspinghar/insurance-segmentation)**: K-Means + PCA over 678k French MTPL policies · [live demo](https://kalspi-portfolio-demos.hf.space/?tab=insurance)
 - **[Applied Data Mining & Computational Vision](https://github.com/kspinghar/applied-dmcv)**: recommender + NLP + image processing + AR feature matching in one Space · [live demo](https://huggingface.co/spaces/kalspi/applied-dmcv)
-- **[NYC Taxi PySpark Pipeline](https://github.com/kspinghar/nyc-taxi-explorer)**: Spark SQL over 2020-2024 trip data with a Gradio query explorer · [live demo](https://huggingface.co/spaces/kalspi/nyc-taxi-explorer)
-- **[Heart Disease ML Pipeline](https://github.com/kspinghar/heart-disease-ml)**: Logistic Regression vs Random Forest, side by side · [live demo](https://huggingface.co/spaces/kalspi/heart-disease-ml)
-- **[SPY Volatility Forecasting](https://github.com/kspinghar/spy-volatility-forecasting)**: CNN / LSTM / CNN-LSTM hybrid for forward realized volatility · [live demo](https://huggingface.co/spaces/kalspi/spy-volatility-forecasting)
+- **[NYC Taxi PySpark Pipeline](https://github.com/kspinghar/nyc-taxi-explorer)**: Spark SQL over 2020-2024 trip data with a Gradio query explorer · [live demo](https://kalspi-portfolio-demos.hf.space/?tab=nyc-taxi)
+- **[Heart Disease ML Pipeline](https://github.com/kspinghar/heart-disease-ml)**: Logistic Regression vs Random Forest, side by side · [live demo](https://kalspi-portfolio-demos.hf.space/?tab=heart-disease)
+- **[SPY Volatility Forecasting](https://github.com/kspinghar/spy-volatility-forecasting)**: CNN / LSTM / CNN-LSTM hybrid for forward realized volatility · [live demo](https://kalspi-portfolio-demos.hf.space/?tab=spy-volatility)
 - **[XAI Intrusion Detection](https://github.com/kspinghar/xai-ids)**: hybrid Autoencoder + One-Class SVM + Random Forest + XGBoost meta, with SHAP and LIME explanations · [live demo](https://huggingface.co/spaces/kalspi/xai-ids)
-- **[Bank Customer Churn](https://github.com/kspinghar/bank-churn-whatif)**: Logistic Regression churn model with a live what-if calculator · [live demo](https://huggingface.co/spaces/kalspi/bank-churn-whatif)
+- **[Bank Customer Churn](https://github.com/kspinghar/bank-churn-whatif)**: Logistic Regression churn model with a live what-if calculator · [live demo](https://kalspi-portfolio-demos.hf.space/?tab=bank-churn)
 
 ### Education
 
